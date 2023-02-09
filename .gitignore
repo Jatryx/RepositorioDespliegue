@@ -1,0 +1,4 @@
+#Copia de Seguridad
+*.bak
+#Tambien vamos a ignorar los .java
+*.java
